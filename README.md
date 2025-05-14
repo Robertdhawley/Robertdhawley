@@ -32,9 +32,8 @@ Check out my repositories to see my work in action:
 - **learning/**\
   Python projects showcasing AI innovation:
 
-  - *AI Text Generator*: Generates creative text using NLP techniques.
-  - *Sentiment Analyzer*: Analyzes text sentiment with TextBlob, featuring a user-friendly interface.
   - *Culture Drone*: A sci-fi-inspired AI drone controller, drawing from Iain M. Banks’ novels.\
+  
     *Why it matters*: Highlights my Python skills, creativity, and ability to build practical AI tools, relevant to X’s analytics and xAI’s AI development.
 
 ## 💡 What I’m Working On
@@ -49,6 +48,5 @@ I’m eager to join a Musk company to contribute to groundbreaking tech. Whether
 
 - **Email**: robert@monadimaging.com
 - **X**: @robertdhawley
-- **Portfolio**: @robertdhawley
 
 If you’re hiring at Tesla, SpaceX, Neuralink, The Boring Company, X, or xAI, I’d love to chat about how my skills and projects can add value. Let’s build the future together! 🌌
