@@ -2,9 +2,9 @@
 
 # Hello, I'm Robert Hawley! 🚀
 
-I'm a 24-year-old self-taught developer passionate about artificial intelligence, quantum computing, and pushing the boundaries of technology. Without a formal degree, I’ve taught myself Python, Qiskit, and NLP, building projects that explore innovative solutions for real-world challenges. My goal is to contribute to Elon Musk’s mission-driven companies—Tesla, SpaceX, Neuralink, The Boring Company, X, or xAI—by leveraging my skills and relentless curiosity to advance human discovery.
+I'm a 24-year-old self-taught developer passionate about artificial intelligence, quantum computing, and pushing the boundaries of technology. Without a formal degree, I’ve taught myself Python, Qiskit, and NLP, building projects that explore innovative solutions for real-world challenges. My goal is to contribute to human exploration, leveraging my skills and relentless curiosity to advance human discovery.
 
-Currently, I drive for Uber while coding on the side, channeling my passion into projects like quantum computing research for Musk’s companies and AI tools inspired by sci-fi concepts. I thrive on learning, problem-solving, and creating tech that makes a difference.
+Currently, I work in sales, while coding on the side, channeling my passion into projects like quantum computing research for Musk’s companies and AI tools inspired by sci-fi concepts. I thrive on learning, problem-solving, and creating tech that makes a difference.
 
 ## 🔧 Skills
 
@@ -44,9 +44,5 @@ Check out my repositories to see my work in action:
 
 ## 🤝 Let’s Connect!
 
-I’m eager to join a Musk company to contribute to groundbreaking tech. Whether it’s optimizing SpaceX’s Starlink network, accelerating xAI’s AI research, or improving Tesla’s autonomous driving, I’m ready to make an impact.
-
-- **Email**: robert@monadimaging.com
+- **Email**: robert@robertdhawley.com
 - **X**: @robertdhawley
-
-If you’re hiring at Tesla, SpaceX, Neuralink, The Boring Company, X, or xAI, I’d love to chat about how my skills and projects can add value. Let’s build the future together! 🌌
