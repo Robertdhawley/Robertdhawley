@@ -12,7 +12,7 @@ Currently, I work in sales, while coding on the side, channeling my passion into
 - **Tools**: Replit, Git, GitHub, VS Code
 - **Soft Skills**: Self-learning, problem-solving, project management, budget builds
 
-## 🌟 Why Me?
+## 🌟 About Me
 
 - **Self-Taught Drive**: Learned coding from scratch, building a portfolio of AI and quantum computing projects without a degree.
 - **Mission Alignment**: Inspired by Musk’s vision to advance sustainability, space exploration, and human-AI synergy.
