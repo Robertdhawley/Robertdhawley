@@ -1,5 +1,3 @@
-**AI Disclaimer**: This profile and its projects were created with AI assistance. I directed the AI to focus on specific topics, curated the content, and refined the output to ensure accuracy and relevance.
-
 # Hello, I'm Robert Hawley! 🚀
 
 I'm a 24-year-old self-taught developer passionate about artificial intelligence, quantum computing, and pushing the boundaries of technology. Without a formal degree, I’ve taught myself Python, Qiskit, and NLP, building projects that explore innovative solutions for real-world challenges. My goal is to contribute to human exploration, leveraging my skills and relentless curiosity to advance human discovery.
@@ -39,7 +37,6 @@ Check out my repositories to see my work in action:
 ## 💡 What I’m Working On
 
 - Exploring quantum machine learning to optimize AI models for xAI.
-- Developing a Tesla-focused gig economy EV charging optimizer using public data.
 - Enhancing my AI drone project with xAI’s API for real-time reasoning, inspired by SpaceX’s autonomous systems.
 
 ## 🤝 Let’s Connect!
