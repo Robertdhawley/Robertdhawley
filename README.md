@@ -1,8 +1,8 @@
 # Hello, I'm Robert Hawley! 🚀
 
-I'm a 24-year-old self-taught developer passionate about artificial intelligence, quantum computing, and pushing the boundaries of technology. Without a formal degree, I’ve taught myself Python, Qiskit, and NLP, building projects that explore innovative solutions for real-world challenges. My goal is to contribute to human exploration, leveraging my skills and relentless curiosity to advance human discovery.
+I'm an engineer who's passionate about artificial intelligence, quantum computing, and pushing the boundaries of technology. Without a formal degree, I’ve learned Python, Qiskit, and NLP, building projects that explore innovative solutions for real-world challenges. My goal is to contribute to human exploration, leveraging my skills and relentless curiosity to advance human discovery.
 
-Currently, I work in sales, while coding on the side, channeling my passion into projects like quantum computing research for Musk’s companies and AI tools inspired by sci-fi concepts. I thrive on learning, problem-solving, and creating tech that makes a difference.
+Currently, I work in logistics, while coding on the side, channeling my passion into projects like quantum computing research for Musk’s companies and AI tools inspired by sci-fi concepts. I thrive on learning, problem-solving, and creating tech that makes a difference.
 
 ## 🔧 Skills
 
